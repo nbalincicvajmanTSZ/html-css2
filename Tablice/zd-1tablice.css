@@ -1,0 +1,5 @@
+table, tr, td{
+    border-width: 5px;
+    border-color: pink;
+    border-style: dashed;
+}

@@ -1,0 +1,12 @@
+table, td, tr {
+    border-width: 5px;
+    border-color: pink;
+    border-style: dashed;
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: red;
+}
+tr{
+    background-color: yellow;
+}
